@@ -7,7 +7,7 @@ class A:
 
 class B(A):
     def feature3(self):
-        print('feature3 working')
+        print('feature3 working1')
     def feature4(self):
         print("feature4 working")
 
